@@ -1,11 +1,12 @@
 ---
 title: Levykokoelma
-description: "Valtaosa poliittista levyistäni on kerätty tähän listaan. CD:t on vielä laittamatta. "
-summary: "Valtaosa poliittista levyistäni on kerätty tähän listaan. CD:t on vielä laittamatta. "
-
 ---
 
-Ohessa listattuna omasta kokoelmastani löytyvät poliittiset levyt, ainakin valtaosa. Jokunen vinyyli saattaa puuttua ja CD-levyjä en ainakaan toistaiseksi ole listannut. 
+Ohessa listattuna omasta kokoelmastani löytyvät poliittiset levyt, ainakin valtaosa. 
+
+Jokunen vinyyli saattaa puuttua ja CD-levyjä en ainakaan toistaiseksi ole listannut. 
+
+<hr />
 
 <div class="discography">
 

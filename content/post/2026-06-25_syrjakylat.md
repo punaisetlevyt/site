@@ -3,9 +3,9 @@ title: "Kaisa Korhonen: Euroopan syrjäkylät"
 date: '2026-06-25'
 image: "2026-06-25_chydenius.jpg"
 categories:
-  - työväenlaulutorstai
+  - Työväenlaulutorstai
 tags:
-  - työväenlaulutorstai
+  - Työväenlaulutorstai
   - Kaj Chydenius
   - Kaisa Korhonen
 ---

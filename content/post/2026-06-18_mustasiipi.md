@@ -3,9 +3,9 @@ title: "Agit-Prop: Lintu mustasiipi lennä"
 date: '2026-06-18'
 image: "2026-06-18_agitkvartetti.jpg"
 categories:
-  - työväenlaulutorstai
+  - Työväenlaulutorstai
 tags:
-  - työväenlaulutorstai
+  - Työväenlaulutorstai
   - Agit-Prop
   - Elvi Sinervo
   - Kaj Chydenius

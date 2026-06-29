@@ -3,9 +3,9 @@ title: "Punainen lanka: Punavangin laulu"
 date: '2026-05-28'
 image: "2026-05-28_punainenlanka.jpg"
 categories:
-  - työväenlaulutorstai
+  - Työväenlaulutorstai
 tags:
-  - työväenlaulutorstai
+  - Työväenlaulutorstai
   - Punainen lanka
   - 1918
 ---

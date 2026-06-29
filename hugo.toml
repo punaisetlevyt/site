@@ -20,11 +20,6 @@ theme = "hugo-xmin"
     weight = 3
 
   [[menu.main]]
-    name = "Muut tekstit"
-    url = "/categories/yleiset/"
-    weight = 4
-
-  [[menu.main]]
     name = "Levykokoelma"
     url = "/levykokoelma/"
     weight = 5

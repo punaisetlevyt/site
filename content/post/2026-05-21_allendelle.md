@@ -3,9 +3,9 @@ title: "Agit-Prop: Allendelle"
 date: '2026-05-21'
 image: "/2026-05-21_laulukaikille.jpg"
 categories:
-  - työväenlaulutorstai
+  - Työväenlaulutorstai
 tags:
-  - työväenlaulutorstai
+  - Työväenlaulutorstai
   - Agit-Prop
   - Chile
 ---

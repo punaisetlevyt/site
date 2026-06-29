@@ -3,9 +3,9 @@ title: "Quilapayún: El pueblo unido jamás será vencido"
 date: '2026-06-11'
 image: "2026-06-11_pueblounido.jpg"
 categories:
-  - työväenlaulutorstai
+  - Työväenlaulutorstai
 tags:
-  - työväenlaulutorstai
+  - Työväenlaulutorstai
   - Quilapayún
   - Chile
 ---

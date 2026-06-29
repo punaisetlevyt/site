@@ -3,9 +3,9 @@ title: "KOM-teatteri: Vapauden kaiho"
 date: '2026-06-04'
 image: "2026-06-04_vapaudenkaiho.jpg"
 categories:
-  - työväenlaulutorstai
+  - Työväenlaulutorstai
 tags:
-  - työväenlaulutorstai
+  - Työväenlaulutorstai
   - KOM-teatteri
 ---
 
