@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://punaisetlaulut.net/'
+locale = 'fi'
+title = 'punaisetlaulut.net'
 theme = "hugo-xmin"
 
 [menu]
