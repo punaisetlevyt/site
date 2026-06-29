@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+{{if not .IsHome }}
+<h1>{{ .Title | markdownify }}</h1>
+{{ end }}
+{{/* .Content */}}
+{{ $pages := .Pages }}
+{{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
+{{ range (where $pages "Section" "!=" "") }}
+<article class="post-summary">
+  <h2><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h2>
+  <span class="date">{{ .Date.Format "2006/01/02" }}</span>
+  {{ with .Params.tags }}
+  <span class="categories">
+    {{ range . }}
+    <a href="/tags/{{ . | urlize }}/" class="category-tag">{{ . }}</a>
+    {{ end }}
+  </span>
+  {{ end }}
+  {{ with .Params.image }}
+  <img src="{{ . | absURL }}" alt="" class="post-thumb">
+  {{ end }}
+  <div class="post-body">{{ .Content }}</div>
+</article>
+<hr>
+{{ end }}
+{{ partial "footer.html" . }}

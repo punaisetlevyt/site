@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Agit-Prop on My New Hugo Project</title>
+		<link>http://localhost:1313/tags/agit-prop/</link>
+		<description>Recent content in Agit-Prop on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/agit-prop/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Agit-Prop: Lintu mustasiipi lennä</title>
+				<link>http://localhost:1313/post/2026-06-18_mustasiipi/</link>
+				<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/post/2026-06-18_mustasiipi/</guid>
+				<description>&lt;p&gt;Tämän viikon &lt;strong&gt;työväenlaulutorstain&lt;/strong&gt; kappaleena on Agit-Propin Lintu mustasiipi lennä, levyltä Agit-Propin kvartetti laulaa työväenlauluja.&lt;/p&gt;&#xA;&lt;p&gt;Laulu on Kaj Chydeniuksen säveltämä ja sanat ovat Elvi Sinervolta. Sinervo oli kirjailija, runoilija ja vasemmistolainen kulttuurivaikuttaja, jonka tekstejä on käytetty muutamassa muussakin Agit-Propin laulussa.&lt;/p&gt;&#xA;&lt;p&gt;Laulun taustalla on vuonna 1949 puunjalostusteollisuuden palkkariidasta alkanut lakko Kemissä, jonka aikana lakkolaisten ja poliisin yhteenotossa kuoli kaksi lakkolaista, Anni Kontiokangas ja Felix Pietilä.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;“ei palaa entinen, ei väkivalta saata&lt;br&gt;&#xA;sokaista enää koskaan tätä maata.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Agit-Prop: Allendelle</title>
+				<link>http://localhost:1313/post/2026-05-21_allendelle/</link>
+				<pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/post/2026-05-21_allendelle/</guid>
+				<description>&lt;p&gt;Tämän viikon &lt;strong&gt;työväenlaulutorstai&lt;/strong&gt; -julkaisuna todellinen klassikko: Agit-Propin “Allendelle”, levyltä Laulu kaikille (1974). Laulajina Pekka Aarnio, Monna Kamu, Martti Launis ja Sinikka Sokka.&lt;/p&gt;&#xA;&lt;p&gt;Laulu on yksi tunnetuimmista Chile-solidaarisuusliikeen perinnöistä 1970-luvulta. Jos Palestiina-solidaarisuus näkyy ja kuuluu tämän päivän Suomessa, se ei ole mitään siihen verrattuna, miten laajasti täällä tuettiin latinalaisen Amerikan edistyksellisiä voimia ja vastustettiin Yhdysvaltojen imperialistisia pyrkimyksiä alueella.&lt;/p&gt;&#xA;&lt;p&gt;Agit-Propille osallistuminen solidaarisuusliikkeeseen oli sekä yhteiskunnallista että henkilökohtaista. Chileläisen, Suomessakin hyvin tunnetun Quilapayún-yhtyeen ja Agit-Propin välille muodostui ystävyys jo vuonna 1971 Berliinin laulufestivaaleilla. Quilapayún kutsui Agit-Propin esiintymään Chileen vuonna 1973.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

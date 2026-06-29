@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Markdown on My New Hugo Project</title>
+		<link>http://localhost:1313/tags/markdown/</link>
+		<description>Recent content in Markdown on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Työväenlaulutorstait</title>
+				<link>http://localhost:1313/post/2026-05-14_intro/</link>
+				<pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/post/2026-05-14_intro/</guid>
+				<description>&lt;p&gt;Ajattelin käynnistää projektin nimeltä &lt;em&gt;Työväenlaulutorstai&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Ideana on kerran viikossa nostaa esille yksi laulu omasta poliittisten levyjen kokoelmastani, kertoa jotain pientä laulun tekijöistä, taustoista sekä myös merkityksestä vasemmistolaiselle liikkeelle ja itselleni henkilökohtaisesti.&lt;/p&gt;&#xA;&lt;p&gt;Olen pitkään keräillyt vasemmistolaisten laululiikkeiden levyjä, enimmäkseen kotimaisia julkaisuja 60- ja 70-luvuilta, mutta jonkun verran muutakin. Osa levyistä on peräisin omilta vanhemmilta, osa hankittu itse.&lt;/p&gt;&#xA;&lt;p&gt;Laulujen skaala tulee olemaan aika laaja, mukana on sekä kommunistisen että demarilaululiikkeen levyjä, perinteisiä työväenlauluja ja modernimpaa tavaraa.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

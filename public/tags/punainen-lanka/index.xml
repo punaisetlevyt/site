@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Punainen Lanka on My New Hugo Project</title>
+		<link>http://localhost:1313/tags/punainen-lanka/</link>
+		<description>Recent content in Punainen Lanka on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/punainen-lanka/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Punainen lanka: Punavangin laulu</title>
+				<link>http://localhost:1313/post/2026-05-28_punavanginlaulu/</link>
+				<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/post/2026-05-28_punavanginlaulu/</guid>
+				<description>&lt;p&gt;Tämän viikon &lt;strong&gt;työväenlaulutorstai&lt;/strong&gt; menee aika syvissä vesissä, päivän kappaleena on nimittäin Punaisen langan versio Punavangin laulusta.&lt;/p&gt;&#xA;&lt;p&gt;Yhtyeenä Punainen lanka on ehkä isoin suosikkini tästä genrestä, jopa Agit-Propin yli. Heillä on hienoja versioita perinteisistä työväenlauluista sekä ei-poliittisista kansanlauluista. Ja myös omaa tuotantoa, erityisesti 70-luvulle sopivasti kansainvälisistä solidaarisuusteemoista.&lt;/p&gt;&#xA;&lt;p&gt;Punavangin laulu on raskas kappale raskaasta aiheesta, mutta voimakas ja sanoitushetken tapahtumia ja tunteita hyvin kuvaava. Itselleni tämä versio on paras levytys laulusta. Harri Saksalan ja Eija Ahvon äänistä sekä bändin säestyksestä kuuluu läpi laulun merkitys myös heille.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

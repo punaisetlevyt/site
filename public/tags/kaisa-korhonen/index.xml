@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Kaisa Korhonen on My New Hugo Project</title>
+		<link>http://localhost:1313/tags/kaisa-korhonen/</link>
+		<description>Recent content in Kaisa Korhonen on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/kaisa-korhonen/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kaisa Korhonen: Euroopan syrjäkylät</title>
+				<link>http://localhost:1313/post/2026-06-25_syrjakylat/</link>
+				<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/post/2026-06-25_syrjakylat/</guid>
+				<description>&lt;p&gt;Tämän viikon &lt;strong&gt;työväenlaulutorstain&lt;/strong&gt; kappaleena on Kaisa Korhosen esittämä ja Kaj Chydeniuksen säveltämä &amp;ldquo;Euroopan syrjäkylät&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Tämä löytyy useilta levyiltä, omasta hyllystä ainakin kuvassa olevalla Love recordsin 1978 julkaisemalla Kaj Chydeniuksen Työväen laulut -kokoelmalla.&lt;/p&gt;&#xA;&lt;p&gt;Laulussa on paljon toisiinsa nivoutuvia teemoja jotka eivät todellakaan ole vanhentuneet; muuttoliikkeet, maaseudun autioituminen, taloudellisen vallan jatkuva keskittyminen. Kumpi on tärkeämpää, ihmisyhteisöt vai markkinavoimat?&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;“Se ei ole johdatusta&lt;br&gt;&#xA;se ihmisten tekoa on,&lt;br&gt;&#xA;ja on ihmisten käsissä päättää&lt;br&gt;&#xA;onko se muuttumaton,&lt;br&gt;&#xA;minkä takia tehdään työtä,&lt;br&gt;&#xA;minkä takia edistytään&lt;br&gt;&#xA;ja pääomako vai kansat&lt;br&gt;&#xA;on veljet keskenään?”&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

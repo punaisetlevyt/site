@@ -1,0 +1,36 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = "hugo-xmin"
+
+[menu]
+  [[menu.main]]
+    name = "Koti"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Info"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Työväenlaulutorstait"
+    url = "/categories/työväenlaulutorstai/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Muut tekstit"
+    url = "/categories/yleiset/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Levykokoelma"
+    url = "/levykokoelma/"
+    weight = 5
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

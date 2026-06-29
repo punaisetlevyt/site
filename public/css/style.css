@@ -1,0 +1,115 @@
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  line-height: 1.5;
+}
+
+/* header and footer areas */
+.menu { padding: 0; }
+.menu li { display: inline-block; }
+.article-meta, .menu a {
+  text-decoration: none;
+  background: #eee;
+  padding: 5px;
+  border-radius: 5px;
+}
+.menu, .article-meta, footer { text-align: center; }
+.title { font-size: 1.1em; }
+footer a { text-decoration: none; }
+hr {
+  border-style: dashed;
+  color: #ddd;
+}
+
+/* code */
+pre {
+  border: 1px solid #ddd;
+  box-shadow: 5px 5px 5px #eee;
+  padding: 1em;
+  overflow-x: auto;
+}
+code { background: #f9f9f9; }
+pre code { background: none; }
+
+/* misc elements */
+img, iframe, video { max-width: 100%; }
+
+.discography ul {
+  list-style-type: "💿 ";
+  padding-left: 1.5em;
+}
+.discography > div > ul > li {
+  margin-bottom: 1.5em;
+  font-weight: bold;
+}
+
+.discography ul ul {
+  list-style: none;
+  padding-left: 1.5em;
+  color: #555;
+}
+
+.categories {
+  display: inline;
+  margin: 0.3em 0;
+}
+.category-tag {
+  display: inline-block;
+  background: #eee;
+  color: #555;
+  font-size: 0.85em;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-right: 4px;
+  text-decoration: none;
+}
+.category-tag:hover {
+  background: #ddd;
+}
+
+.post-summary h2 {
+  margin-bottom: 0.2em;   /* if you haven't added this from the last message yet */
+}
+
+.post-summary h2 a {
+  color: #222;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+.post-summary h2 a:hover {
+  text-decoration: underline;
+}
+
+.post-thumb {
+  max-height: 400px;
+  height: auto;
+  display: block;
+  margin: 1em 0;
+}
+
+
+main { hyphens: auto; }
+blockquote {
+  background: #f9f9f9;
+  border-left: 5px solid #ccc;
+  padding: 3px 1em 3px;
+}
+
+table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+table thead th { border-bottom: 1px solid #ddd; }
+th, td { padding: 5px; }
+thead, tfoot, tr:nth-child(even) { background: #eee; }
+
+
+
+div.site-logo img {
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin: 0.5em auto;
+}
