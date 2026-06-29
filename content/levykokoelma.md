@@ -5,6 +5,7 @@ summary: "Valtaosa poliittista levyistäni on kerätty tähän listaan. CD:t on 
 
 ---
 
+Ohessa listattuna omasta kokoelmastani löytyvät poliittiset levyt, ainakin valtaosa. Jokunen vinyyli saattaa puuttua ja CD-levyjä en ainakaan toistaiseksi ole listannut. 
 
 <div class="discography">
 
