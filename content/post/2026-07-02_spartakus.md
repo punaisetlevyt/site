@@ -16,7 +16,7 @@ Vapaustaistelusta ja toivosta kertovan laulun taustalla oleva Spartacus oli traa
 
 Alunperin laulu on peräisin näytelmästä "Berliini järjestyksen kourissa", johon Kaj Chydenius sävelsi musiikin. Sanat ovat Pentti Saaritsalta. Näytelmä ei ole itselleni tuttu, joten en osaa sanoa miten Spartacus ja kapina näytelmässä esiintyy, mutta ainakin laulu on hieno.  
 
-Laulu on julkaistu tämän kuvassa olevan Eteenpäin! -kokoelman lisäksi useilla muillakin kokoelmilla, viimeeksi Love Recordsin 2009 julkaisemalla CD:llä “Kun tuuli kääntyy”, joka löytyy myös suoratoistopalveluista.  
+Laulu on julkaistu tämän kuvassa olevan Eteenpäin! -kokoelman lisäksi useilla muillakin kokoelmilla, viimeeksi Love Recordsin 2009 julkaisemalla CD:llä “Kun tuuli kääntyy”, joka löytyy myös suoratoistopalveluista. Myös tuosta mainitusta näytelmästä on julkaistu oma levynsä vuonna 1970.  
 
 *“Herroja on aina ollut, niin myös orjia  
 Spartacuskin oli orja muinoin Roomassa  
