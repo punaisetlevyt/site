@@ -22,6 +22,11 @@ Love Records (4) – LRLP-61
 Vinyl, LP, Album Gatefold
 Love Records (4) – LRLP-112
 
+- [Avaruuslintu](https://www.discogs.com/release/764424-Avaruuslintu-Avaruuslintu)  
+  - Avaruuslintu
+  - 1976 – Finland
+Vinyl, LP, Album
+Love Records (4) – LRLP 184
 
 - [Työstä Ja Taistelusta](https://www.discogs.com/release/3681089-Kaisa-Korhonen-Työstä-Ja-Taistelusta)
   - Kaisa Korhonen
