@@ -2,7 +2,7 @@
 title: Levykokoelma
 ---
 
-Ohessa listattuna omasta kokoelmastani löytyvät poliittiset levyt, ainakin valtaosa. 
+Ohessa listattuna omasta kokoelmastani löytyvät poliittiset levyt, tai ainakin suurin osa. 
 
 Jokunen vinyyli saattaa puuttua ja CD-levyjä en ainakaan toistaiseksi ole listannut. 
 
