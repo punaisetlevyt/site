@@ -11,4 +11,4 @@ Yritän valita työväenlaulutorstaiksi aina lauluja, jotka löytyvät yleisist�
 Olen pitkään keräillyt poliittisen laululiikkeen kotimaisia levyjä 60- ja 70-luvuilta. Osa levyistä on peräisin omilta vanhemmilta, osa hankittu itse.
 
 Kontakti:   
-✉️ *punaisetlaulut (at) proton.me*
+✉️ *punaisetlevyt (at) proton.me*
