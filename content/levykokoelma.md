@@ -40,6 +40,12 @@ Love Records (4) – LRLP 22
 Vinyl, LP, Album
 Love Records (4) – LRLP 302
 
+- [Kiila 35](https://www.discogs.com/release/7285160-Various-Kiila-35)
+  - Various
+  - 1971 – Finland
+Vinyl, LP, Stereo
+Eteenpäin! (2) – ETLP 309
+
 - [Kevään Malja](https://www.discogs.com/release/9180303-Koiton-Laulu-Kevään-Malja)
   - Koiton Laulu
   - 1981 – Finland
