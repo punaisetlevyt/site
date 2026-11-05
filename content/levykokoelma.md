@@ -28,6 +28,12 @@ Love Records (4) – LRLP-112
 Vinyl, LP, Album
 Love Records (4) – LRLP 184
 
+- [Taistojen tiellä](https://www.discogs.com/release/1115431-Helsingin-Ty%C3%B6v%C3%A4enyhdistyksen-Soittokunta-Taistojen-Tiell%C3%A4)
+  - Helsingin Työväenyhdistyksen Soittokunta
+  - 1969 – Finland
+  Vinyl, LP
+  Scandia – SLP 536
+
 - [Työstä Ja Taistelusta](https://www.discogs.com/release/3681089-Kaisa-Korhonen-Työstä-Ja-Taistelusta)
   - Kaisa Korhonen
   - 1970 – Finland
@@ -136,6 +142,12 @@ Eteenpäin! (2) – ETLP 320
 Vinyl, LP, Compilation, Stereo
 AMIGA – 8 45 134
 
+- [Työn armeijan marssi](https://www.discogs.com/release/3689093-Various-Ty%C3%B6n-Armeijan-Marssi)
+- Various
+- 1977 – Finland
+Vinyl, LP, Compilation
+Eteenpäin! (2) – ETLP 322
+
 - [Työväen Lauluja](https://www.discogs.com/release/1566510-Various-Työväen-Lauluja)
   - Various
   - 1969 – Finland
@@ -147,5 +159,17 @@ Scandia – SLP 535
   - 1970 – Finland
 Vinyl, LP, Stereo, Mono
 Scandia – SLP 549
+
+- [Uusi laulu](https://www.discogs.com/release/4520801-Various-Uusi-Laulu)
+  - Various
+  - 1975 – Finland
+  Vinyl, LP, Compilation
+  Eteenpäin! (2) – ETLP-326
+
+- [Uusi laulu II](https://www.discogs.com/release/4520810-Various-Uusi-Laulu-2)
+  - Various
+  - 1976 – Finland
+Vinyl, LP, Compilation
+Eteenpäin! (2) – ETLP 328
 
 </div>
