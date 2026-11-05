@@ -143,8 +143,8 @@ Vinyl, LP, Compilation, Stereo
 AMIGA – 8 45 134
 
 - [Työn armeijan marssi](https://www.discogs.com/release/3689093-Various-Ty%C3%B6n-Armeijan-Marssi)
-- Various
-- 1977 – Finland
+  - Various
+  - 1977 – Finland
 Vinyl, LP, Compilation
 Eteenpäin! (2) – ETLP 322
 
